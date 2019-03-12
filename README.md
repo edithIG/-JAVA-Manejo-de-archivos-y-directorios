@@ -1,4 +1,4 @@
-# [JAVA]Manejo-de-archivos-y-directorios
+# [JAVA]Manejo de archivos y directorios
 El ejemplo es realizado para archivos de texto, se implementa el paquete java.nio.file, utilizando las clases Files y Paths.
 
 La clase Paths convertira la ruta proporcionada a un String, implemetado la Inteface Path para usar algunos de sus metodos.
